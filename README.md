@@ -14,5 +14,5 @@ Features: Using an API a news feed was created where user can see different news
 
 |   Description    |   Image    |
 |:------------:|:----------------:|
-|News Feed| ![](images/todo-list-img.png)|
-|Redirected url| ![](images/task-img.png)|
+|News Feed| ![](images/news-feed.png)|
+|Redirected url| ![](images/news-url.png)|
